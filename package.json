@@ -1,0 +1,4 @@
+{
+    "name": "ipc-rpc",
+    "main": "./lib/ipc.js"
+}
